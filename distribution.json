@@ -23,26 +23,6 @@
             "MD5": "0c9071d4cdc2c16d8da63848d7ef3073",
             "path": "resourcepacks/conquest.zip"
           }
-        },
-        {
-          "id": "embeddium-0.3.31+mc1.20.1",
-          "name": "embeddium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1320675,
-            "url": "https://github.com/mo-seory/conquest/raw/refs/heads/main/servers/conquest-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
-            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
-          }
-        },
-        {
-          "id": "oculus-mc1.20.1-1.7.0",
-          "name": "oculus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2831148,
-            "url": "https://github.com/mo-seory/conquest/raw/refs/heads/main/servers/conquest-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
-            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
-          }
         }
       ]
     }
