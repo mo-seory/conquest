@@ -20,7 +20,7 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
@@ -29,7 +29,7 @@
           "type": "File",
           "artifact": {
             "size": 588447,
-            "url": "https://github.com/mo-seory/conquest/raw/refs/heads/main/servers/conquest-1.20.1/files/resourcepacks/conquest.zip",
+            "url": "https://mo-seory.github.io/conquest/servers/conquest-1.20.1/files/resourcepacks/conquest.zip",
             "MD5": "0c9071d4cdc2c16d8da63848d7ef3073",
             "path": "resourcepacks/conquest.zip"
           }
@@ -40,7 +40,7 @@
           "type": "File",
           "artifact": {
             "size": 459175,
-            "url": "https://github.com/mo-seory/conquest/raw/refs/heads/main/servers/conquest-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.5.1%ED%95%9C%EA%B8%80.zip",
+            "url": "https://mo-seory.github.io/conquest/servers/conquest-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.5.1%ED%95%9C%EA%B8%80.zip",
             "MD5": "be122ad39663d4da17662a9485543a05",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1한글.zip"
           }
@@ -51,31 +51,9 @@
           "type": "File",
           "artifact": {
             "size": 3184524,
-            "url": "https://github.com/mo-seory/conquest/raw/refs/heads/main/servers/conquest-1.20.1/files/shaderpacks/%C2%A7r%C2%A7lAstra%C2%A74%C2%A7lLex%C2%A7r%C2%A7l_By_LexBoosT_%C2%A74%C2%A7lV93.0%C2%A7r%C2%A7l.zip",
+            "url": "https://mo-seory.github.io/conquest/servers/conquest-1.20.1/files/shaderpacks/%C2%A7r%C2%A7lAstra%C2%A74%C2%A7lLex%C2%A7r%C2%A7l_By_LexBoosT_%C2%A74%C2%A7lV93.0%C2%A7r%C2%A7l.zip",
             "MD5": "021c95bd3d217b4a7e45997d5127285b",
             "path": "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip"
-          }
-        },
-        {
-          "id": "embeddium-0.3.31+mc1.20.1.jar",
-          "name": "embeddium-0.3.31+mc1.20.1.jar",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1320675,
-            "url": "https://github.com/mo-seory/conquest/releases/download/1.0.0/embeddium-0.3.31+mc1.20.1.jar",
-            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7",
-            "path": "mods/embeddium-0.3.31+mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "oculus-mc1.20.1-1.7.0.jar",
-          "name": "oculus-mc1.20.1-1.7.0.jar",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2831148,
-            "url": "https://github.com/mo-seory/conquest/releases/download/1.0.0/oculus-mc1.20.1-1.7.0.jar",
-            "MD5": "45b96133bb46cc61dd9778bd4fca741d",
-            "path": "mods/oculus-mc1.20.1-1.7.0.jar"
           }
         }
       ]
