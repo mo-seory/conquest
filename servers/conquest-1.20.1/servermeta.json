@@ -5,7 +5,7 @@
     "name": "conquest (Minecraft 1.20.1)",
     "description": "conquest Running Minecraft 1.20.1",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "address": "moseory.ddns.net",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
