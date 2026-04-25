@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "servers": [
+    {
+      "id": "conquest-1.20.1",
+      "name": "conquest (Minecraft 1.20.1)",
+      "description": "conquest Running Minecraft 1.20.1",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "moseory.ddns.net",
+      "minecraftVersion": "1.20.1",
+      "mainServer": false,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "conquest.zip",
+          "name": "conquest.zip",
+          "type": "File",
+          "artifact": {
+            "size": 588447,
+            "url": "https://mo-seory.github.io/conquest/servers/conquest-1.20.1/files/resourcepacks/conquest.zip",
+            "MD5": "0c9071d4cdc2c16d8da63848d7ef3073",
+            "path": "resourcepacks/conquest.zip"
+          }
+        }
+      ]
+    }
+  ]
+}
