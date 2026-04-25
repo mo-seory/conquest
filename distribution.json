@@ -55,6 +55,28 @@
             "MD5": "021c95bd3d217b4a7e45997d5127285b",
             "path": "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip"
           }
+        },
+        {
+          "id": "embeddium-0.3.31+mc1.20.1.jar",
+          "name": "embeddium-0.3.31+mc1.20.1.jar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://github.com/mo-seory/conquest/raw/refs/heads/main/servers/conquest-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7",
+            "path": "mods/embeddium-0.3.31+mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "oculus-mc1.20.1-1.7.0.jar",
+          "name": "oculus-mc1.20.1-1.7.0.jar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2831148,
+            "url": "https://github.com/mo-seory/conquest/raw/refs/heads/main/servers/conquest-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
+            "MD5": "45b96133bb46cc61dd9778bd4fca741d",
+            "path": "mods/oculus-mc1.20.1-1.7.0.jar"
+          }
         }
       ]
     }
