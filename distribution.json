@@ -19,7 +19,7 @@
           "type": "File",
           "artifact": {
             "size": 588447,
-            "url": "https://mo-seory.github.io/conquest/servers/conquest-1.20.1/files/resourcepacks/conquest.zip",
+            "url": "https://github.com/mo-seory/conquest/raw/refs/heads/main/servers/conquest-1.20.1/files/resourcepacks/conquest.zip",
             "MD5": "0c9071d4cdc2c16d8da63848d7ef3073",
             "path": "resourcepacks/conquest.zip"
           }
